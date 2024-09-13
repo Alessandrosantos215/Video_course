@@ -1,8 +1,9 @@
-if carro.esquerda():
+'''if carro.esquerda():
 
 elif carro.direita():
 
 elif carro.ré():
+
 
 else:
 
@@ -18,4 +19,4 @@ elif nome in 'Ana Claudia Jessica Juliana':
     print('Belo nome feminino')
 else:
     print('Seu nome é bem normal.')
-print('Tenha um bom dia, {}!'.format(nome))
+print('Tenha um bom dia, {}!'.format(nome))'''
