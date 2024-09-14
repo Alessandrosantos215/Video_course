@@ -1,4 +1,5 @@
-algo = input('Digite algo: ')
+
+algo = input('\033[1;31mDigite algo: ')
 
 print ('O tipo primitivo',type(algo))
 print ('É numero ?{}'.format(algo.isnumeric()))

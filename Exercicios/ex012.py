@@ -1,4 +1,4 @@
-p = int(input('qual é o preço do produto?'))
+p = int(input('\033[1;34mqual é o preço do produto?'))
 
 desconto = p * 0.05
 

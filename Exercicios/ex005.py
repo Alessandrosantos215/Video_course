@@ -1,4 +1,4 @@
-num = int(input('Escreva um numero:'))
+num = int(input('\033[1;33mEscreva um numero:'))
 
 s = num + 1
 

@@ -1,4 +1,4 @@
-v = int(input('Quanto voce tem na carteira?'))
+v = int(input('\033[1;33mQuanto voce tem na carteira?'))
 
 d = 3.27
 

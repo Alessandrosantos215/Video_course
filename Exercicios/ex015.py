@@ -1,4 +1,4 @@
-d = int(input('Quantos dias alugado? '))
+d = int(input('\033[1::41mQuantos dias alugado? '))
 r = int(input('Quantos Km rodados? '))
 
 v = d * 60

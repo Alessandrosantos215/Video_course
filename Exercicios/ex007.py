@@ -1,4 +1,4 @@
-nota1 = float(input('digite primeira nota: '))
+nota1 = float(input('\033[1;35mdigite primeira nota: '))
 nota2 = float(input('Digite segunda nota: '))
 
 s = nota1 + nota2
