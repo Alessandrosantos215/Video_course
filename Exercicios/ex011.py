@@ -1,4 +1,4 @@
-l = int(input('qual é a altura da parede? '))
+l = int(input('\033[1;35mqual é a altura da parede? '))
 a = int(input('Qual é a largura da parede? '))
 
 area = a * l

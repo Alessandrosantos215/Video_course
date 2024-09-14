@@ -1,4 +1,4 @@
-num = int(input('digite um numro:'))
+num = int(input('\033[4;36mdigite um numro:'))
 
 t = num * 1
 t1 = num * 2

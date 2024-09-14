@@ -1,6 +1,6 @@
 import math
 
-num = int(input('Digite um numero: '))
+num = int(input('\033[4;32mDigite um numero: '))
 
 d = num * 2
 t = num * 3

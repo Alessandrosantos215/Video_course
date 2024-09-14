@@ -12,7 +12,7 @@ print('o numero digitado foi {} '
 
 
 
-valor = float(input('Digite o valor em metros: '))
+valor = float(input('\033[1;34mDigite o valor em metros: '))
 
 
 km = valor / 1000

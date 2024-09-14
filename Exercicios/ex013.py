@@ -1,4 +1,4 @@
-s = int(input('Digite seu salario:'))
+s = int(input('\033[1;35mDigite seu salario:'))
 
 a = s * 0.15
 

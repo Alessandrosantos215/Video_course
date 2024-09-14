@@ -1,4 +1,4 @@
-c  = float(input('Quantos graus Cº: '))
+c  = float(input('\033[1;36mQuantos graus Cº: '))
 
 f = (c * 9/5) + 32
 
